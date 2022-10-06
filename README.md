@@ -1,3 +1,3 @@
 # Package A
 
-- main
+- 0.1
